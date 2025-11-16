@@ -1,0 +1,12 @@
+RAG Training Category,Source Category,Section Name,PDFs Available,Structured CSV Files,CSV Filenames,Scraper Used,Relevance for RAG,Priority
+1. Core Rules and Manuals - Procurement Guidelines,Manuals,Procurement Manuals,16,1,manuals_20251115_181144.csv,manuals_scraper.py,HIGH - Core procurement manuals (Goods/Works/Services) - foundational for RAG,High
+2. Circulars and Office Memorandums (OMs) - Operational Guidelines,Divisions,Procurement Policy-O.M,307,1,procurement_policy_om_20251115_155645.csv,proc_scraper.py,"HIGH - Contains GFR amendments, circulars, and operational guidelines essential for procurement queries",High
+3. Annual and Periodic Reports - Budget Documents,Documents,Outcome Budget,8,1,outcome_budget_20251115_174709.csv,budget_scraper.py,HIGH - Budget documents for scheme-wise allocation queries,High
+3. Annual and Periodic Reports - Demands for Grants,Documents,Detailed Demands For Grants,16,1,detailed_demands_20251115_173352.csv,grants_scraper.py,HIGH - Budget documents for scheme-wise allocation queries,High
+3. Annual and Periodic Reports - Monthly Expenditure,Documents,Monthly Summary Report,25,1,monthly_summary_20251115_174119.csv,summary_scraper.py,HIGH - Real-time expenditure data for fiscal monitoring,High
+3. Annual and Periodic Reports - Statistical Overviews,Documents,Annual Report on Pay and Allowances,26,1,annual_report_data_20251115_172740.csv,annualrep_scraper.py,HIGH - Pay and allowance data critical for employee-related queries,High
+"6. Acts, Rules and Miscellaneous - Legal Framework",Acts & Rules,Recruitment Rules,4,1,recruitment_rules_20251115_175201.csv,rec_scraper.py,MEDIUM - Legal framework for hiring and appointments,Medium
+"6. Acts, Rules and Miscellaneous - RTI Documents",Right To Information,RTI Information-Department of Expenditure,45,1,rti_information_20251115_180319.csv,rti_scraper.py,MEDIUM - Right to Information compliance and transparency,Medium
+"6. Acts, Rules and Miscellaneous - Compliance",Acts & Rules,Prevention of Sexual Harassment,1,0,N/A,Manual,LOW - Supporting documentation,Low
+"6. Acts, Rules and Miscellaneous - Governance",Documents,Citizen Charter,1,0,N/A,Manual,LOW - Supporting documentation,Low
+7. Administrative and Other Documents,Divisions > Autonomous Bodies,Autonomous Bodies (General),5,1,autonomous_bodies_pay_related_20251115_162817.csv,auto_scraper.py,LOW - Supporting documentation,Low

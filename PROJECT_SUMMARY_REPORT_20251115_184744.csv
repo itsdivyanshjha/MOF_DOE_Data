@@ -1,0 +1,40 @@
+Category,Section,Scraper File,PDFs Downloaded,CSV Files Generated,CSV Filenames,Status
+Acts & Rules,Prevention of Sexual Harassment,Manual,1,0,N/A,Completed
+Acts & Rules,Recruitment Rules,rec_scraper.py,4,1,recruitment_rules_20251115_175201.csv,Completed
+Divisions > Attached-Subordinate Offices,Controller General of Accounts (CGA),cga_scraper.py,0,1,controller_general_accounts_cga_20251115_161742.csv,Completed
+Divisions > Attached-Subordinate Offices,Office of Chief Adviser Cost,ocac_scraper.py,0,1,office_chief_adviser_cost_20251115_162322.csv,Completed
+Divisions > Autonomous Bodies,Autonomous Bodies (General),auto_scraper.py,5,1,autonomous_bodies_pay_related_20251115_162817.csv,Completed
+Divisions > Autonomous Bodies,AJNIFM,ajnifm_scraper.py,0,1,nifm_national_institute_financial_management_20251115_163901.csv,Completed
+Divisions,Integrated Finance Division,ifd_scraper.py,0,1,integrated_finance_division_20251115_154423.csv,Completed
+Divisions,Office of Chief Adviser Cost,ocac_scraper.py,0,1,office_chief_adviser_cost_menu_20251115_165440.csv,Completed
+Divisions,Personnel and Establishment Division (Main),PandE_scraper.py,0,1,divisions_personnel_establishment_20251115_140130.csv,Completed
+Divisions > Personnel and Establishment,Administration,admin_scraper.py,0,1,administration_i_20251115_141029.csv,Completed
+Divisions > Personnel and Establishment,Cadre Administaration Section,cas_scraper.py,0,1,cadre_administration_section_20251115_142854.csv,Completed
+Divisions > Personnel and Establishment,Establishment Coordination,ec_scraper.py,0,1,establishment_coordination_general_20251115_150218.csv,Completed
+Divisions > Personnel and Establishment,Establishment Coordination-I,ec_scraper.py,0,1,establishment_coordination_personnel_20251115_141552.csv,Completed
+Divisions > Personnel and Establishment,Establishment General Section,egs_scraper.py,0,1,establishment_general_section_20251115_143125.csv,Completed
+Divisions > Personnel and Establishment,Establishment II A,e2a_scraper.py,0,1,establishment_ii_a_20251115_145309.csv,Completed
+Divisions > Personnel and Establishment,Establishment II B,e2b_scraper.py,0,1,establishment_ii_b_20251115_150456.csv,Completed
+Divisions > Personnel and Establishment,Establishment III A,est3a_scraper.py,0,1,establishment_iii_20251115_141834.csv,Completed
+Divisions > Personnel and Establishment,Establishment III B,e3b_scraper.py,0,1,establishment_iii_b_20251115_143343.csv,Completed
+Divisions > Personnel and Establishment,Establishment III Desk,e3deck_scraper.py,0,1,establishment_iii_desk_20251115_145633.csv,Completed
+Divisions > Personnel and Establishment,Establishment IV,est4_scraper.py,0,1,establishment_iv_20251115_150812.csv,Completed
+Divisions > Personnel and Establishment,Establishment V,est5_scraper.py,0,1,establishment_v_20251115_142113.csv,Completed
+Divisions > Personnel and Establishment,Hindi Section,hindi_scraper.py,0,1,hindi_section_20251115_143543.csv,Completed
+Divisions > Personnel and Establishment,Parliament Cell,parliament_scraper.py,0,1,parliament_cell_20251115_145846.csv,Completed
+Divisions > Personnel and Establishment,Pay Research Unit,pru_scraper.py,0,1,pay_research_unit_20251115_151058.csv,Completed
+Divisions > Personnel and Establishment,R.T.I. & Legal,rtilegal_scraper.py,0,1,rti_cell_20251115_142543.csv,Completed
+Divisions > Personnel and Establishment,Staff Inspection Unit,siu_scraper.py,0,1,staff_inspection_unit_20251115_143815.csv,Completed
+Divisions > Personnel and Establishment,Vigilance,vig_scraper.py,0,1,confidential_section_20251115_144129.csv,Completed
+Divisions,Procurement Policy-O.M,proc_scraper.py,307,1,procurement_policy_om_20251115_155645.csv,Completed
+Divisions,Public Finance (Central) Division,pfcd_scraper.py,0,1,public_finance_central_20251115_153440.csv,Completed
+Divisions,Public Finance (States) Division (Main),pfd_scraper.py,0,1,public_finance_states_division_20251115_151852.csv,Completed
+Divisions > Public Finance (States),Finance Commission Division,fcd_scraper.py,0,1,finance_commission_division_20251115_152259.csv,Completed
+Divisions > Public Finance (States),Public Financial Management System,pfms_scraper.py,0,1,pfms_20251115_152843.csv,Completed
+Documents,Annual Report on Pay and Allowances,annualrep_scraper.py,26,1,annual_report_data_20251115_172740.csv,Completed
+Documents,Detailed Demands For Grants,grants_scraper.py,16,1,detailed_demands_20251115_173352.csv,Completed
+Documents,Monthly Summary Report,summary_scraper.py,25,1,monthly_summary_20251115_174119.csv,Completed
+Documents,Outcome Budget,budget_scraper.py,8,1,outcome_budget_20251115_174709.csv,Completed
+Documents,Citizen Charter,Manual,1,0,N/A,Completed
+Manuals,Procurement Manuals,manuals_scraper.py,16,1,manuals_20251115_181144.csv,Completed
+Right To Information,RTI Information-Department of Expenditure,rti_scraper.py,45,1,rti_information_20251115_180319.csv,Completed
